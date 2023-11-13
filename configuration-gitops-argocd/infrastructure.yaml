@@ -1,0 +1,8 @@
+key:
+  components:
+    - name: uxp
+      chart: universal-crossplane
+      version: "v1.13.2-up.3"
+      releaseName: universal-crossplane
+      repoUrl: "https://charts.upbound.io/stable"
+      namespace: upbound-system
