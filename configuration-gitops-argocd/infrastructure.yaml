@@ -1,8 +1,8 @@
 key:
   components:
-    - name: uxp
-      chart: universal-crossplane
-      version: "v1.14.6-up.1"
-      releaseName: universal-crossplane
-      repoUrl: "https://charts.upbound.io/stable"
-      namespace: uxp-system
+    - name: nginx
+      chart: nginx
+      version: "15.14.0"
+      releaseName: nginx-release
+      repoUrl: "https://charts.bitnami.com/bitnami"
+      namespace: default
